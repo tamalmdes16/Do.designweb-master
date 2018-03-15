@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.Do_design.ac.in" resolutions="1x,2x" timestamp="1521119831604">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.Do_design.ac.in" resolutions="1x,2x" timestamp="1521129576997">
   <folder name="css">
-    <file name="site_global.css" crc="99456496"/>
-    <file name="master_a-master.css" crc="370242119" ref="index:ux-lab:lectures:alumni:prototyping-labs:seminars:staff:first-year:programs-ph.d:vehicle-lab:placement-brochures:programs-internships:publications:past-recruiters:patents:internships:consultancyprojects:faculty-jobs:research-achievenments:project-staff-jobs:faculty-contacts:products-developed:admissions:students-ug:business-incubation:directory:students-pg:programs-ceqip:jobs:students-phd:collaborations:students-portfolios:programs-b-des:contact-us:conferences:downloads:second-year:programs-m-des:broad-areas:workshops:dod-recruiter"/>
+    <file name="site_global.css" crc="322139877"/>
+    <file name="master_a-master.css" crc="476016548" ref="index:ux-lab:lectures:alumni:prototyping-labs:seminars:staff:first-year:programs-ph.d:vehicle-lab:placement-brochures:programs-internships:publications:past-recruiters:patents:internships:consultancyprojects:faculty-jobs:research-achievenments:project-staff-jobs:faculty-contacts:products-developed:admissions:students-ug:business-incubation:directory:students-pg:programs-ceqip:jobs:students-phd:collaborations:students-portfolios:programs-b-des:contact-us:conferences:downloads:second-year:programs-m-des:broad-areas:workshops:dod-recruiter"/>
     <file name="master_b-master.css" crc="356227254" ref="ux-lab:lectures:prototyping-labs:seminars:vehicle-lab:programs-internships:publications:patents:internships:consultancyprojects:research-achievenments:project-staff-jobs:products-developed:business-incubation:programs-ceqip:jobs:collaborations:conferences:downloads:broad-areas"/>
-    <file name="index.css" crc="3953153742" ref="index"/>
+    <file name="index.css" crc="3760622005" ref="index"/>
     <file name="iefonts_index.css" crc="468346205" ref="index"/>
     <file name="ux-lab.css" crc="244634774" ref="ux-lab"/>
     <file name="iefonts_ux-lab.css" crc="468346205" ref="ux-lab"/>
@@ -193,7 +193,7 @@
     <file name="_dsc0640-2.jpg" crc="4247717690" seo="true" ref="second-year"/>
     <file name="_dsc0640-2_2x.jpg" crc="123775350" seo="true" ref="second-year"/>
   </folder>
-  <file name="index.html" crc="3952105021" seo="true" mt="1521119531059" redirect="true"/>
+  <file name="index.html" crc="446957462" seo="true" mt="1521129552055" redirect="true"/>
   <file name="faculty-contacts.html" crc="3849391091" seo="true" mt="1521119531059" redirect="true"/>
   <file name="students-ug.html" crc="3987536786" seo="true" mt="1521119531059" redirect="true"/>
   <file name="students-pg.html" crc="424386886" seo="true" mt="1521119531059" redirect="true"/>
