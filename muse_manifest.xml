@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.Do_design.ac.in" resolutions="1x,2x" timestamp="1521713673663">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.Do_design.ac.in" resolutions="1x,2x" timestamp="1521714379591">
   <folder name="css">
     <file name="site_global.css" crc="99456496"/>
     <file name="master_b-master.css" crc="333774020" ref="programs-ceqip:research-achievenments:downloads:collaborations:ux-lab:business-incubation:broad-areas:lectures:consultancyprojects:programs-internships:prototyping-labs:patents:seminars:products-developed:internships:vehicle-lab:jobs:publications:project-staff-jobs:conferences"/>
@@ -13,7 +13,7 @@
     <file name="iefonts_research-achievenments.css" crc="468346205" ref="research-achievenments"/>
     <file name="downloads.css" crc="480593423" ref="downloads"/>
     <file name="iefonts_downloads.css" crc="468346205" ref="downloads"/>
-    <file name="students-portfolios.css" crc="4091562624" ref="students-portfolios"/>
+    <file name="students-portfolios.css" crc="347845552" ref="students-portfolios"/>
     <file name="iefonts_students-portfolios.css" crc="468346205" ref="students-portfolios"/>
     <file name="programs-ph_d.css" crc="4140135104" ref="programs-ph.d"/>
     <file name="iefonts_programs-ph_d.css" crc="468346205" ref="programs-ph.d"/>
@@ -43,7 +43,7 @@
     <file name="iefonts_consultancyprojects.css" crc="468346205" ref="consultancyprojects"/>
     <file name="programs-internships.css" crc="480593423" ref="programs-internships"/>
     <file name="iefonts_programs-internships.css" crc="468346205" ref="programs-internships"/>
-    <file name="index.css" crc="4105253490" ref="index"/>
+    <file name="index.css" crc="292411722" ref="index"/>
     <file name="iefonts_index.css" crc="468346205" ref="index"/>
     <file name="prototyping-labs.css" crc="480593423" ref="prototyping-labs"/>
     <file name="iefonts_prototyping-labs.css" crc="468346205" ref="prototyping-labs"/>
@@ -116,8 +116,6 @@
     <file name="png2jpg.jpg" crc="41279955" seo="true" ref="past-recruiters"/>
     <file name="png2jpg_2x.jpg" crc="4003213659" seo="true" ref="past-recruiters"/>
     <file name="pic01.jpg" crc="403485120" seo="true" ref="faculty-jobs"/>
-    <file name="_dsc0585-min-crop-u12434.jpg" crc="3941858141" ref="students-portfolios"/>
-    <file name="_dsc0585-min-crop-u12434_2x.jpg" crc="3920315746" ref="students-portfolios"/>
     <file name="25550426_533314343702284_9039448510378812376_n.jpg" crc="464673862" seo="true" ref="students-portfolios"/>
     <file name="25550426_533314343702284_9039448510378812376_n_2x.jpg" crc="276678117" seo="true" ref="students-portfolios"/>
     <file name="17990179_1561207837282260_5093727341367616120_o.jpg" crc="123409492" seo="true" ref="students-portfolios"/>
@@ -154,71 +152,41 @@
     <file name="saajan 2-2_2x.jpg" crc="4252084799" seo="true" ref="students-portfolios"/>
     <file name="sushant-crop-u12665.jpg" crc="3766332155" ref="students-portfolios"/>
     <file name="sushant-crop-u12665_2x.jpg" crc="179948060" ref="students-portfolios"/>
-    <file name="_dsc0508-edit.jpg" crc="4208554960" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0508-edit_2x.jpg" crc="3806918161" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0550.jpg" crc="3934248282" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0550_2x.jpg" crc="3938284388" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0496-edit-2.jpg" crc="110507184" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0496-edit-2_2x.jpg" crc="4057505890" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0683.jpg" crc="151480705" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0683_2x.jpg" crc="4115735725" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0570-edit.jpg" crc="67259689" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0570-edit_2x.jpg" crc="46950119" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0749-edit.jpg" crc="497934408" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0749-edit_2x.jpg" crc="3797868188" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0493-edit.jpg" crc="4186717032" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0493-edit_2x.jpg" crc="146934666" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0707.jpg" crc="527536280" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0707_2x.jpg" crc="3777128347" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0730-edit.jpg" crc="342674210" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0730-edit_2x.jpg" crc="185459933" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0718.jpg" crc="177294221" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0718_2x.jpg" crc="395692853" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0797.jpg" crc="3855674061" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0797_2x.jpg" crc="4175140077" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0396-2.jpg" crc="3981834339" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0396-2_2x.jpg" crc="452180683" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0828.jpg" crc="328690860" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0828_2x.jpg" crc="4013965719" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0691.jpg" crc="3801691595" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0691_2x.jpg" crc="182796268" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0640.jpg" crc="183810319" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0640_2x.jpg" crc="3999159701" seo="true" ref="students-portfolios"/>
   </folder>
-  <file name="index.html" crc="474391771" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="faculty-contacts.html" crc="4187397176" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="programs-b-des.html" crc="4218366119" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="programs-m-des.html" crc="274415881" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="programs-ph.d.html" crc="3863207713" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="programs-ceqip.html" crc="229765668" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="programs-internships.html" crc="3781696003" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="contact-us.html" crc="3914600406" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="broad-areas.html" crc="4033886441" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="ux-lab.html" crc="484455115" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="prototyping-labs.html" crc="313701093" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="vehicle-lab.html" crc="508281425" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="publications.html" crc="118307514" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="patents.html" crc="3959110069" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="consultancyprojects.html" crc="4030065151" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="research-achievenments.html" crc="523927111" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="products-developed.html" crc="3909737748" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="business-incubation.html" crc="505736095" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="collaborations.html" crc="3915547029" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="conferences.html" crc="4053662213" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="workshops.html" crc="4576070" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="lectures.html" crc="528559745" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="seminars.html" crc="160922865" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="placement-brochures.html" crc="4064649021" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="past-recruiters.html" crc="4104973708" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="internships.html" crc="4003551137" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="faculty-jobs.html" crc="423737929" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="project-staff-jobs.html" crc="199606469" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="admissions.html" crc="3765332971" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="directory.html" crc="4221223421" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="jobs.html" crc="3891278629" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="students-portfolios.html" crc="4030056990" seo="true" mt="1521713613847" redirect="true"/>
-  <file name="downloads.html" crc="3766178803" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="dod-recruiter.html" crc="167142688" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="alumni.html" crc="36260806" seo="true" mt="1521711304110" redirect="true"/>
-  <file name="staff.html" crc="120050369" seo="true" mt="1521711304110" redirect="true"/>
+  <file name="index.html" crc="141230548" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="faculty-contacts.html" crc="513217070" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="programs-b-des.html" crc="4120436744" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="programs-m-des.html" crc="424608961" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="programs-ph.d.html" crc="3885224079" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="programs-ceqip.html" crc="4041727059" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="programs-internships.html" crc="403542682" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="contact-us.html" crc="172476772" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="broad-areas.html" crc="3762005790" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="ux-lab.html" crc="34593190" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="prototyping-labs.html" crc="4037960781" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="vehicle-lab.html" crc="3999086982" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="publications.html" crc="186604079" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="patents.html" crc="284366157" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="consultancyprojects.html" crc="354698511" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="research-achievenments.html" crc="3818157551" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="products-developed.html" crc="4049548612" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="business-incubation.html" crc="411714091" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="collaborations.html" crc="186885264" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="conferences.html" crc="18026073" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="workshops.html" crc="481814243" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="lectures.html" crc="4112105213" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="seminars.html" crc="226131407" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="placement-brochures.html" crc="219705412" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="past-recruiters.html" crc="438507911" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="internships.html" crc="4229245458" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="faculty-jobs.html" crc="4181331249" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="project-staff-jobs.html" crc="116593879" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="admissions.html" crc="517174898" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="directory.html" crc="3909053990" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="jobs.html" crc="346830747" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="students-portfolios.html" crc="3995582346" seo="true" mt="1521713987321" redirect="true"/>
+  <file name="downloads.html" crc="3915841377" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="dod-recruiter.html" crc="4210259010" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="alumni.html" crc="182463253" seo="true" mt="1521713917012" redirect="true"/>
+  <file name="staff.html" crc="3819354249" seo="true" mt="1521713917012" redirect="true"/>
 </manifest>
