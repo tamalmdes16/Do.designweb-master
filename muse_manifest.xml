@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.Do_design.ac.in" resolutions="1x,2x" timestamp="1521715702769">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.Do_design.ac.in" resolutions="1x,2x" timestamp="1521796260684">
   <folder name="css">
-    <file name="site_global.css" crc="99456496"/>
+    <file name="site_global.css" crc="322139877"/>
     <file name="master_b-master.css" crc="333774020" ref="programs-ceqip:research-achievenments:downloads:collaborations:ux-lab:business-incubation:broad-areas:lectures:consultancyprojects:programs-internships:prototyping-labs:patents:seminars:products-developed:internships:vehicle-lab:jobs:publications:project-staff-jobs:conferences"/>
-    <file name="master_a-master.css" crc="507797794" ref="programs-m-des:directory:programs-ceqip:research-achievenments:downloads:students-portfolios:programs-ph.d:dod-recruiter:contact-us:collaborations:ux-lab:programs-b-des:business-incubation:broad-areas:staff:lectures:alumni:placement-brochures:consultancyprojects:programs-internships:index:prototyping-labs:workshops:patents:past-recruiters:seminars:products-developed:internships:vehicle-lab:jobs:faculty-jobs:publications:project-staff-jobs:faculty-contacts:conferences:admissions"/>
+    <file name="master_a-master.css" crc="526912952" ref="programs-m-des:directory:programs-ceqip:research-achievenments:downloads:students-portfolios:programs-ph.d:dod-recruiter:contact-us:collaborations:ux-lab:programs-b-des:business-incubation:broad-areas:staff:lectures:alumni:placement-brochures:consultancyprojects:programs-internships:index:prototyping-labs:workshops:patents:past-recruiters:seminars:products-developed:internships:vehicle-lab:jobs:faculty-jobs:publications:project-staff-jobs:faculty-contacts:conferences:admissions"/>
     <file name="programs-m-des.css" crc="372946840" ref="programs-m-des"/>
     <file name="iefonts_programs-m-des.css" crc="468346205" ref="programs-m-des"/>
     <file name="directory.css" crc="365169018" ref="directory"/>
@@ -174,8 +174,8 @@
     <file name="_dsc0718_2x.jpg" crc="395692853" seo="true" ref="students-portfolios"/>
     <file name="_dsc0797.jpg" crc="3855674061" seo="true" ref="students-portfolios"/>
     <file name="_dsc0797_2x.jpg" crc="4175140077" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0396-2.jpg" crc="3981834339" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0396-2_2x.jpg" crc="452180683" seo="true" ref="students-portfolios"/>
+    <file name="_dsc0396-2.jpg" crc="3843896826" seo="true" ref="students-portfolios"/>
+    <file name="_dsc0396-2_2x.jpg" crc="401139069" seo="true" ref="students-portfolios"/>
     <file name="_dsc0828.jpg" crc="328690860" seo="true" ref="students-portfolios"/>
     <file name="_dsc0828_2x.jpg" crc="4013965719" seo="true" ref="students-portfolios"/>
     <file name="_dsc0691.jpg" crc="3801691595" seo="true" ref="students-portfolios"/>
@@ -214,7 +214,7 @@
   <file name="admissions.html" crc="170887342" seo="true" mt="1521714772331" redirect="true"/>
   <file name="directory.html" crc="5781046" seo="true" mt="1521714772331" redirect="true"/>
   <file name="jobs.html" crc="263498255" seo="true" mt="1521714772331" redirect="true"/>
-  <file name="students-portfolios.html" crc="3829439884" seo="true" mt="1521715310989" redirect="true"/>
+  <file name="students-portfolios.html" crc="30684984" seo="true" mt="1521796165697" redirect="true"/>
   <file name="downloads.html" crc="4247488594" seo="true" mt="1521714772331" redirect="true"/>
   <file name="dod-recruiter.html" crc="3791230270" seo="true" mt="1521714772331" redirect="true"/>
   <file name="alumni.html" crc="302829677" seo="true" mt="1521714772331" redirect="true"/>
