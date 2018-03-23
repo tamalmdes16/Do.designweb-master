@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.Do_design.ac.in" resolutions="1x,2x" timestamp="1521796260684">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.Do_design.ac.in" resolutions="1x,2x" timestamp="1521796514480">
   <folder name="css">
     <file name="site_global.css" crc="322139877"/>
     <file name="master_b-master.css" crc="333774020" ref="programs-ceqip:research-achievenments:downloads:collaborations:ux-lab:business-incubation:broad-areas:lectures:consultancyprojects:programs-internships:prototyping-labs:patents:seminars:products-developed:internships:vehicle-lab:jobs:publications:project-staff-jobs:conferences"/>
@@ -154,8 +154,8 @@
     <file name="sushant-crop-u12665_2x.jpg" crc="179948060" ref="students-portfolios"/>
     <file name="_dsc0508-edit.jpg" crc="4208554960" seo="true" ref="students-portfolios"/>
     <file name="_dsc0508-edit_2x.jpg" crc="3806918161" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0550.jpg" crc="3934248282" seo="true" ref="students-portfolios"/>
-    <file name="_dsc0550_2x.jpg" crc="3938284388" seo="true" ref="students-portfolios"/>
+    <file name="_dsc0550.jpg" crc="4056030993" seo="true" ref="students-portfolios"/>
+    <file name="_dsc0550_2x.jpg" crc="113080638" seo="true" ref="students-portfolios"/>
     <file name="_dsc0496-edit-2.jpg" crc="110507184" seo="true" ref="students-portfolios"/>
     <file name="_dsc0496-edit-2_2x.jpg" crc="4057505890" seo="true" ref="students-portfolios"/>
     <file name="_dsc0683.jpg" crc="151480705" seo="true" ref="students-portfolios"/>
@@ -214,7 +214,7 @@
   <file name="admissions.html" crc="170887342" seo="true" mt="1521714772331" redirect="true"/>
   <file name="directory.html" crc="5781046" seo="true" mt="1521714772331" redirect="true"/>
   <file name="jobs.html" crc="263498255" seo="true" mt="1521714772331" redirect="true"/>
-  <file name="students-portfolios.html" crc="30684984" seo="true" mt="1521796165697" redirect="true"/>
+  <file name="students-portfolios.html" crc="475368831" seo="true" mt="1521796479614" redirect="true"/>
   <file name="downloads.html" crc="4247488594" seo="true" mt="1521714772331" redirect="true"/>
   <file name="dod-recruiter.html" crc="3791230270" seo="true" mt="1521714772331" redirect="true"/>
   <file name="alumni.html" crc="302829677" seo="true" mt="1521714772331" redirect="true"/>
