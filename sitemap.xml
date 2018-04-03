@@ -7,7 +7,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.Do_design.ac.in/alumni.html</loc>
+    <loc>http://www.Do_design.ac.in/post-doc.html</loc>
+    <lastmod>2018-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.Do_design.ac.in/inauguration.html</loc>
     <lastmod>2018-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -19,25 +25,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.Do_design.ac.in/alumni.html</loc>
+    <lastmod>2018-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.Do_design.ac.in/dod-recruiter.html</loc>
     <lastmod>2018-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.Do_design.ac.in/downloads.html</loc>
-    <lastmod>2018-04-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.Do_design.ac.in/students-portfolios.html</loc>
-    <lastmod>2018-04-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.Do_design.ac.in/jobs.html</loc>
     <lastmod>2018-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -62,12 +62,6 @@
   </url>
   <url>
     <loc>http://www.Do_design.ac.in/faculty-jobs.html</loc>
-    <lastmod>2018-04-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.Do_design.ac.in/internships.html</loc>
     <lastmod>2018-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -343,6 +337,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.Do_design.ac.in/images/_dsc0749-edit_2x_2x.jpg</loc>
+    <lastmod>2018-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.Do_design.ac.in/images/_dsc0493-edit.jpg</loc>
+    <lastmod>2018-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.Do_design.ac.in/images/png2jpg_2x.jpg</loc>
     <lastmod>2018-04-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -350,18 +356,6 @@
   </url>
   <url>
     <loc>http://www.Do_design.ac.in/images/pic01.jpg</loc>
-    <lastmod>2018-04-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.Do_design.ac.in/images/varma-01.jpg</loc>
-    <lastmod>2018-04-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.Do_design.ac.in/images/varma-01_2x.jpg</loc>
     <lastmod>2018-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -499,6 +493,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.Do_design.ac.in/images/gears.gif</loc>
+    <lastmod>2018-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.Do_design.ac.in/images/_dsc0354.jpg</loc>
+    <lastmod>2018-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.Do_design.ac.in/images/_dsc0354_2x.jpg</loc>
+    <lastmod>2018-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.Do_design.ac.in/assets/do-design-2trim.mp4</loc>
     <lastmod>2018-02-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -506,12 +518,6 @@
   </url>
   <url>
     <loc>http://www.Do_design.ac.in/images/png2jpg.jpg</loc>
-    <lastmod>2018-04-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.Do_design.ac.in/images/settings.svg</loc>
     <lastmod>2018-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -685,19 +691,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.Do_design.ac.in/images/_dsc0749-edit_2x_2x.jpg</loc>
-    <lastmod>2018-04-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.Do_design.ac.in/assets/m.des-placement-brochure.pdf</loc>
     <lastmod>2017-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.Do_design.ac.in/images/_dsc0493-edit.jpg</loc>
+    <loc>http://www.Do_design.ac.in/images/varma-01.jpg</loc>
+    <lastmod>2018-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.Do_design.ac.in/images/varma-01_2x.jpg</loc>
     <lastmod>2018-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
