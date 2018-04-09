@@ -11,14 +11,14 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "require.js", "faculty-contacts.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "jquery.musepolyfill.bgsize.js", "require.js", "faculty-contacts.css"], "outOfDate":[]};
 </script>
   
   <title>Faculty Contacts</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=322139877"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=195022529"/>
-  <link rel="stylesheet" type="text/css" href="css/faculty-contacts.css?crc=3843914110" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4078481421"/>
+  <link rel="stylesheet" type="text/css" href="css/faculty-contacts.css?crc=4236468036" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_faculty-contacts.css?crc=468346205"/>
@@ -35,7 +35,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
   <![endif]-->
    </head>
- <body>
+ <body class="museBGSize">
 
   <div class="clearfix borderbox" id="page"><!-- column -->
    <div class="clearfix colelem" id="pu94"><!-- group -->
@@ -166,90 +166,124 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <a class="nonblock nontext Button clearfix colelem" id="buttonu3995" href="conferences.html"><!-- container box --><div class="clip_frame grpelem" id="u3997"><!-- image --><img class="block" id="u3997_img" src="images/bullet-01.png?crc=4140275242" data-hidpi-src="images/bullet-01_2x.png?crc=257638575" alt="" width="5" height="5"/></div><div class="clearfix grpelem" id="u3996-4"><!-- content --><p>Conferences</p></div></a>
      <a class="nonblock nontext Button clearfix colelem" id="buttonu4008" href="workshops.html"><!-- container box --><div class="clip_frame grpelem" id="u4010"><!-- image --><img class="block" id="u4010_img" src="images/bullet-01.png?crc=4140275242" data-hidpi-src="images/bullet-01_2x.png?crc=257638575" alt="" width="5" height="5"/></div><div class="clearfix grpelem" id="u4009-4"><!-- content --><p>Workshops</p></div></a>
      <a class="nonblock nontext Button clearfix colelem" id="buttonu4024" href="lectures.html"><!-- container box --><div class="clip_frame grpelem" id="u4026"><!-- image --><img class="block" id="u4026_img" src="images/bullet-01.png?crc=4140275242" data-hidpi-src="images/bullet-01_2x.png?crc=257638575" alt="" width="5" height="5"/></div><div class="clearfix grpelem" id="u4025-4"><!-- content --><p>Lectures</p></div></a>
-     <a class="nonblock nontext Button clearfix colelem" id="buttonu4037" href="patents.html"><!-- container box --><div class="clip_frame grpelem" id="u4038"><!-- image --><img class="block" id="u4038_img" src="images/bullet-01.png?crc=4140275242" data-hidpi-src="images/bullet-01_2x.png?crc=257638575" alt="" width="5" height="5"/></div><div class="clearfix grpelem" id="u4040-4"><!-- content --><p>Patents</p></div></a>
-     <a class="nonblock nontext Button clearfix colelem" id="buttonu8489" href="patents.html"><!-- container box --><div class="clip_frame grpelem" id="u8490"><!-- image --><img class="block" id="u8490_img" src="images/bullet-01.png?crc=4140275242" data-hidpi-src="images/bullet-01_2x.png?crc=257638575" alt="" width="5" height="5"/></div><div class="clearfix grpelem" id="u8492-4"><!-- content --><p>Awards</p></div></a>
+     <div class="pointer_cursor Button clearfix colelem" id="buttonu4037"><!-- container box -->
+      <a class="block" href="patents.html"><!-- Block link tag --></a>
+      <div class="clip_frame grpelem" id="u4038"><!-- image -->
+       <img class="block" id="u4038_img" src="images/bullet-01.png?crc=4140275242" data-hidpi-src="images/bullet-01_2x.png?crc=257638575" alt="" width="5" height="5"/>
+      </div>
+      <a class="nonblock nontext clearfix grpelem" id="u4040-4" href="patents.html"><!-- content --><p>Patents</p></a>
+     </div>
+     <div class="pointer_cursor Button clearfix colelem" id="buttonu8489"><!-- container box -->
+      <a class="block" href="awards.html"><!-- Block link tag --></a>
+      <div class="clip_frame grpelem" id="u8490"><!-- image -->
+       <img class="block" id="u8490_img" src="images/bullet-01.png?crc=4140275242" data-hidpi-src="images/bullet-01_2x.png?crc=257638575" alt="" width="5" height="5"/>
+      </div>
+      <a class="nonblock nontext clearfix grpelem" id="u8492-4" href="awards.html"><!-- content --><p>Awards</p></a>
+     </div>
     </div>
-    <div class="clearfix grpelem" id="u8546"><!-- column -->
-     <div class="clearfix colelem" id="pu8011-4"><!-- group -->
-      <div class="clearfix grpelem" id="u8011-4"><!-- content -->
-       <p>Head of Department</p>
+    <div class="clearfix grpelem" id="u14706"><!-- column -->
+     <div class="clearfix colelem" id="u8546"><!-- column -->
+      <div class="clearfix colelem" id="pu8011-4"><!-- group -->
+       <div class="clearfix grpelem" id="u8011-4"><!-- content -->
+        <p>Head of Department</p>
+       </div>
+       <div class="grpelem" id="u8012"><!-- simple frame --></div>
       </div>
-      <div class="grpelem" id="u8012"><!-- simple frame --></div>
+      <div class="clearfix colelem" id="pu8020"><!-- group -->
+       <div class="clip_frame grpelem" id="u8020"><!-- image -->
+        <img class="block" id="u8020_img" src="images/rao-01.jpg?crc=239231296" data-hidpi-src="images/rao-01_2x.jpg?crc=123308156" alt="" width="90" height="108"/>
+       </div>
+       <div class="clearfix grpelem" id="u8047-18"><!-- content -->
+        <p class="General" id="u8047-3"><a class="nonblock" href="http://web.iitd.ac.in/~pvmrao/" target="_blank"><span id="u8047">P.V. Madhusudhan Rao</span></a></p>
+        <p id="u8047-5">Head of Department</p>
+        <p id="u8047-7">Department of Design</p>
+        <p id="u8047-8">&nbsp;</p>
+        <p id="u8047-9">&nbsp;</p>
+        <p id="u8047-13"><span id="u8047-10">E-mail:</span> <span id="u8047-12">pvmrao@mech.iitd.ac.in</span></p>
+        <p id="u8047-16"><span id="u8047-14">Phone number: </span><span id="u8047-15">+91-11-26591427</span></p>
+       </div>
+      </div>
+      <div class="clearfix colelem" id="pu8063-4"><!-- group -->
+       <div class="clearfix grpelem" id="u8063-4"><!-- content -->
+        <p>Faculty</p>
+       </div>
+       <div class="grpelem" id="u8060"><!-- simple frame --></div>
+      </div>
+      <div class="clearfix colelem" id="pu8069"><!-- group -->
+       <div class="clip_frame grpelem" id="u8069"><!-- image -->
+        <img class="block" id="u8069_img" src="images/ska-01.jpg?crc=445714848" data-hidpi-src="images/ska-01_2x.jpg?crc=39850769" alt="" width="90" height="108"/>
+       </div>
+       <div class="clearfix grpelem" id="u8076-17"><!-- content -->
+        <p class="General" id="u8076-2"><span id="u8076">Atreya SK</span></p>
+        <p class="General" id="u8076-4"><span id="u8076-3">Chief Design Engineer</span></p>
+        <p id="u8076-6">Department of Design</p>
+        <p id="u8076-7">&nbsp;</p>
+        <p id="u8076-8">&nbsp;</p>
+        <p id="u8076-12"><span id="u8076-9">E-mail:</span> atreya@iddc.iitd.ac.in<span id="u8076-11"></span></p>
+        <p id="u8076-15"><span id="u8076-13">Phone number: </span><span id="u8076-14">+91-11-26591430</span></p>
+       </div>
+      </div>
+      <div class="clearfix colelem" id="pu8095"><!-- group -->
+       <div class="clip_frame grpelem" id="u8095"><!-- image -->
+        <img class="block" id="u8095_img" src="images/jk-01.jpg?crc=417235239" data-hidpi-src="images/jk-01_2x.jpg?crc=385353381" alt="" width="90" height="108"/>
+       </div>
+       <div class="clearfix grpelem" id="u8102-17"><!-- content -->
+        <p class="General" id="u8102-2"><span id="u8102">Jyoti Kumar</span></p>
+        <p id="u8102-4">Assistant Professor</p>
+        <p id="u8102-6">Department of Design</p>
+        <p id="u8102-7">&nbsp;</p>
+        <p id="u8102-8">&nbsp;</p>
+        <p id="u8102-12"><span id="u8102-9">E-mail:</span> jyoti@iddc.iitd.ac.in<span id="u8102-11"></span></p>
+        <p id="u8102-15"><span id="u8102-13">Phone number: </span><span id="u8102-14">+91-11-26596735</span></p>
+       </div>
+      </div>
+      <div class="clearfix colelem" id="pu8161"><!-- group -->
+       <div class="clip_frame grpelem" id="u8161"><!-- image -->
+        <img class="block" id="u8161_img" src="images/sumer-01.jpg?crc=4083629386" data-hidpi-src="images/sumer-01_2x.jpg?crc=4266042080" alt="" width="90" height="108"/>
+       </div>
+       <div class="clearfix grpelem" id="u8168-17"><!-- content -->
+        <p class="General" id="u8168-2"><span id="u8168">Sumer Singh</span></p>
+        <p id="u8168-4">Assistant Professor</p>
+        <p id="u8168-6">Department of Design</p>
+        <p id="u8168-7">&nbsp;</p>
+        <p id="u8168-8">&nbsp;</p>
+        <p id="u8168-12"><span id="u8168-9">E-mail:</span> sumerid@iddc.iitd.ac.in<span id="u8168-11"></span></p>
+        <p id="u8168-15"><span id="u8168-13">Phone number: </span><span id="u8168-14">+91-11-26596723</span></p>
+       </div>
+      </div>
+      <div class="clearfix colelem" id="pu8184"><!-- group -->
+       <div class="clip_frame grpelem" id="u8184"><!-- image -->
+        <img class="block" id="u8184_img" src="images/srini-01.jpg?crc=170788670" data-hidpi-src="images/srini-01_2x.jpg?crc=3988134482" alt="" width="90" height="108"/>
+       </div>
+       <div class="clearfix grpelem" id="u8194-17"><!-- content -->
+        <p class="General" id="u8194-2"><span id="u8194">Srinivasan Venkataraman</span></p>
+        <p id="u8194-4">Assistant Professor</p>
+        <p id="u8194-6">Department of Design</p>
+        <p id="u8194-7">&nbsp;</p>
+        <p id="u8194-8">&nbsp;</p>
+        <p id="u8194-12"><span id="u8194-9">E-mail:</span> Srinivasan.Venkataraman@iddc.iitd.ac.in<span id="u8194-11"></span></p>
+        <p id="u8194-15">Phone number: <span id="u8194-14">+91-11-26591447</span></p>
+       </div>
+      </div>
      </div>
-     <div class="clearfix colelem" id="pu8020"><!-- group -->
-      <div class="clip_frame grpelem" id="u8020"><!-- image -->
-       <img class="block" id="u8020_img" src="images/rao-01.jpg?crc=239231296" data-hidpi-src="images/rao-01_2x.jpg?crc=123308156" alt="" width="90" height="108"/>
+     <div class="clearfix colelem" id="pu14272-4"><!-- group -->
+      <div class="clearfix grpelem" id="u14272-4"><!-- content -->
+       <p>GUest Faculty</p>
       </div>
-      <div class="clearfix grpelem" id="u8047-18"><!-- content -->
-       <p class="General" id="u8047-3"><a class="nonblock" href="http://web.iitd.ac.in/~pvmrao/" target="_blank"><span id="u8047">P.V. Madhusudhan Rao</span></a></p>
-       <p id="u8047-5">Head of Department</p>
-       <p id="u8047-7">Department of Design</p>
-       <p id="u8047-8">&nbsp;</p>
-       <p id="u8047-9">&nbsp;</p>
-       <p id="u8047-13"><span id="u8047-10">E-mail:</span> <span id="u8047-12">pvmrao@mech.iitd.ac.in</span></p>
-       <p id="u8047-16"><span id="u8047-14">Phone number: </span><span id="u8047-15">+91-11-26591427</span></p>
-      </div>
+      <div class="grpelem" id="u14273"><!-- simple frame --></div>
      </div>
-     <div class="clearfix colelem" id="pu8063-4"><!-- group -->
-      <div class="clearfix grpelem" id="u8063-4"><!-- content -->
-       <p>Faculty</p>
+     <div class="clearfix colelem" id="pu14274"><!-- group -->
+      <div class="clip_frame grpelem" id="u14274"><!-- image -->
+       <img class="block" id="u14274_img" src="images/tigy-01.jpg?crc=4141094936" data-hidpi-src="images/tigy-01_2x.jpg?crc=3881989130" alt="" data-image-width="90" data-image-height="108"/>
       </div>
-      <div class="grpelem" id="u8060"><!-- simple frame --></div>
-     </div>
-     <div class="clearfix colelem" id="pu8069"><!-- group -->
-      <div class="clip_frame grpelem" id="u8069"><!-- image -->
-       <img class="block" id="u8069_img" src="images/ska-01.jpg?crc=445714848" data-hidpi-src="images/ska-01_2x.jpg?crc=39850769" alt="" width="90" height="108"/>
-      </div>
-      <div class="clearfix grpelem" id="u8076-18"><!-- content -->
-       <p class="General" id="u8076-2"><span id="u8076">Atreya SK</span></p>
-       <p class="General" id="u8076-5"><a class="nonblock" href="http://web.iitd.ac.in/~pvmrao/" target="_blank"><span id="u8076-3">Chief Design Engineer</span></a></p>
-       <p id="u8076-7">Department of Design</p>
-       <p id="u8076-8">&nbsp;</p>
-       <p id="u8076-9">&nbsp;</p>
-       <p id="u8076-13"><span id="u8076-10">E-mail:</span> atreya@iddc.iitd.ac.in<span id="u8076-12"></span></p>
-       <p id="u8076-16"><span id="u8076-14">Phone number: </span><span id="u8076-15">+91-11-26591430</span></p>
-      </div>
-     </div>
-     <div class="clearfix colelem" id="pu8095"><!-- group -->
-      <div class="clip_frame grpelem" id="u8095"><!-- image -->
-       <img class="block" id="u8095_img" src="images/jk-01.jpg?crc=417235239" data-hidpi-src="images/jk-01_2x.jpg?crc=385353381" alt="" width="90" height="108"/>
-      </div>
-      <div class="clearfix grpelem" id="u8102-17"><!-- content -->
-       <p class="General" id="u8102-2"><span id="u8102">Jyoti Kumar</span></p>
-       <p id="u8102-4">Assistant Professor</p>
-       <p id="u8102-6">Department of Design</p>
-       <p id="u8102-7">&nbsp;</p>
-       <p id="u8102-8">&nbsp;</p>
-       <p id="u8102-12"><span id="u8102-9">E-mail:</span> jyoti@iddc.iitd.ac.in<span id="u8102-11"></span></p>
-       <p id="u8102-15"><span id="u8102-13">Phone number: </span><span id="u8102-14">+91-11-26596735</span></p>
-      </div>
-     </div>
-     <div class="clearfix colelem" id="pu8161"><!-- group -->
-      <div class="clip_frame grpelem" id="u8161"><!-- image -->
-       <img class="block" id="u8161_img" src="images/sumer-01.jpg?crc=4083629386" data-hidpi-src="images/sumer-01_2x.jpg?crc=4266042080" alt="" width="90" height="108"/>
-      </div>
-      <div class="clearfix grpelem" id="u8168-17"><!-- content -->
-       <p class="General" id="u8168-2"><span id="u8168">Sumer Singh</span></p>
-       <p id="u8168-4">Assistant Professor</p>
-       <p id="u8168-6">Department of Design</p>
-       <p id="u8168-7">&nbsp;</p>
-       <p id="u8168-8">&nbsp;</p>
-       <p id="u8168-12"><span id="u8168-9">E-mail:</span> sumerid@iddc.iitd.ac.in<span id="u8168-11"></span></p>
-       <p id="u8168-15"><span id="u8168-13">Phone number: </span><span id="u8168-14">+91-11-26596723</span></p>
-      </div>
-     </div>
-     <div class="clearfix colelem" id="pu8184"><!-- group -->
-      <div class="clip_frame grpelem" id="u8184"><!-- image -->
-       <img class="block" id="u8184_img" src="images/srini-01.jpg?crc=170788670" data-hidpi-src="images/srini-01_2x.jpg?crc=3988134482" alt="" width="90" height="108"/>
-      </div>
-      <div class="clearfix grpelem" id="u8194-17"><!-- content -->
-       <p class="General" id="u8194-2"><span id="u8194">Srinivasan Venkataraman</span></p>
-       <p id="u8194-4">Assistant Professor</p>
-       <p id="u8194-6">Department of Design</p>
-       <p id="u8194-7">&nbsp;</p>
-       <p id="u8194-8">&nbsp;</p>
-       <p id="u8194-12"><span id="u8194-9">E-mail:</span> Srinivasan.Venkataraman@iddc.iitd.ac.in<span id="u8194-11"></span></p>
-       <p id="u8194-15">Phone number: <span id="u8194-14">+91-11-26591447</span></p>
+      <div class="clearfix grpelem" id="u14276-18"><!-- content -->
+       <p class="General" id="u14276-2"><span id="u14276">Tigmanshu Bhatnagar</span></p>
+       <p class="General" id="u14276-6"><a class="nonblock" href="http://web.iitd.ac.in/~pvmrao/" target="_blank"><span id="u14276-3">Guest </span></a><span id="u14276-5">Faculty</span></p>
+       <p id="u14276-8">Department of Design</p>
+       <p id="u14276-9">&nbsp;</p>
+       <p id="u14276-10">&nbsp;</p>
+       <p id="u14276-14"><span id="u14276-11">E-mail:</span> tigmanshu.bhatnagar@gmail.com<span id="u14276-13"></span></p>
+       <p id="u14276-16"><span id="u14276-15">Phone number:</span></p>
       </div>
      </div>
     </div>
@@ -263,7 +297,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
       <a class="nonblock nontext Button clearfix colelem" id="buttonu3182" href="faculty-jobs.html"><!-- container box --><div class="clip_frame grpelem" id="u3183"><!-- image --><img class="block" id="u3183_img" src="images/bullet-01.png?crc=4140275242" data-hidpi-src="images/bullet-01_2x.png?crc=257638575" alt="" width="5" height="5"/></div><div class="clearfix grpelem" id="u3185-4"><!-- content --><p>Faculty</p></div></a>
       <a class="nonblock nontext Button clearfix colelem" id="buttonu3195" href="project-staff-jobs.html"><!-- container box --><div class="clip_frame grpelem" id="u3196"><!-- image --><img class="block" id="u3196_img" src="images/bullet-01.png?crc=4140275242" data-hidpi-src="images/bullet-01_2x.png?crc=257638575" alt="" width="5" height="5"/></div><div class="clearfix grpelem" id="u3198-4"><!-- content --><p>Project Staff</p></div></a>
-      <a class="nonblock nontext Button clearfix colelem" id="buttonu12917" href="project-staff-jobs.html"><!-- container box --><div class="clip_frame grpelem" id="u12918"><!-- image --><img class="block" id="u12918_img" src="images/bullet-01.png?crc=4140275242" data-hidpi-src="images/bullet-01_2x.png?crc=257638575" alt="" width="5" height="5"/></div><div class="clearfix grpelem" id="u12920-4"><!-- content --><p>Post-doc</p></div></a>
+      <a class="nonblock nontext Button clearfix colelem" id="buttonu12917" href="post-doc.html"><!-- container box --><div class="clip_frame grpelem" id="u12918"><!-- image --><img class="block" id="u12918_img" src="images/bullet-01.png?crc=4140275242" data-hidpi-src="images/bullet-01_2x.png?crc=257638575" alt="" width="5" height="5"/></div><div class="clearfix grpelem" id="u12920-4"><!-- content --><p>Post-doc</p></div></a>
       <div class="clearfix colelem" id="u4337"><!-- column -->
        <div class="clearfix colelem" id="u3279-4"><!-- content -->
         <p>Placements</p>
@@ -286,26 +320,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
     </div>
    </div>
-   <div class="clearfix colelem" id="pu14272-4"><!-- group -->
-    <div class="clearfix grpelem" id="u14272-4"><!-- content -->
-     <p>GUest Faculty</p>
-    </div>
-    <div class="grpelem" id="u14273"><!-- simple frame --></div>
-   </div>
-   <div class="clearfix colelem" id="pu14274"><!-- group -->
-    <div class="clip_frame grpelem" id="u14274"><!-- image -->
-     <img class="block" id="u14274_img" src="images/tigy-01.jpg?crc=4141094936" data-hidpi-src="images/tigy-01_2x.jpg?crc=3881989130" alt="" data-image-width="90" data-image-height="108"/>
-    </div>
-    <div class="clearfix grpelem" id="u14276-18"><!-- content -->
-     <p class="General" id="u14276-2"><span id="u14276">Atreya SK</span></p>
-     <p class="General" id="u14276-5"><a class="nonblock" href="http://web.iitd.ac.in/~pvmrao/" target="_blank"><span id="u14276-3">Chief Design Engineer</span></a></p>
-     <p id="u14276-7">Department of Design</p>
-     <p id="u14276-8">&nbsp;</p>
-     <p id="u14276-9">&nbsp;</p>
-     <p id="u14276-13"><span id="u14276-10">E-mail:</span> atreya@iddc.iitd.ac.in<span id="u14276-12"></span></p>
-     <p id="u14276-16"><span id="u14276-14">Phone number: </span><span id="u14276-15">+91-11-26591430</span></p>
-    </div>
-   </div>
    <div class="verticalspacer" data-offset-top="1059" data-content-above-spacer="1058" data-content-below-spacer="159"></div>
    <div class="browser_width colelem" id="u11968-bw">
     <div id="u11968"><!-- group -->
@@ -323,7 +337,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musemenu"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musemenu","jquery.musepolyfill.bgsize"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.detectScreenResolution();/* HiDPI screens */
